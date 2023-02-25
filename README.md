@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=afrotter&theme=theme_name)
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrotter&layout=compact&theme=theme)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrotter&layout=compact&theme=dark)
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrotter)](https://github.com/anuraghazra/github-readme-stats)
