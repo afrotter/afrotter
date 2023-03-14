@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My [Portfolio](https://jddev.vercel.app/)
+My [Portfolio](https://jddev.vercel.app/) (80% complete)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrotter&layout=compact&theme=dark)
 <!--
