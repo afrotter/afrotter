@@ -2,6 +2,8 @@
 
 View my [portfolio](https://jddev.vercel.app/)
 
+Currently looking at web-app optimisation and data analysis
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrotter&layout=compact&theme=dark)
 <!--
 
