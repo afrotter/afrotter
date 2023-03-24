@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-View my [portfolio](https://jddev.vercel.app/)
+View my [portfolio](https://jddev.vercel.app/) and my [LinkedIn](https://www.linkedin.com/in/jd-engelbrecht-b96267232/)
 
 Currently looking at web-app optimisation and data analysis
 
