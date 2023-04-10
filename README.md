@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [Portfolio](https://jddev.vercel.app/)
+
 [LinkedIn](https://www.linkedin.com/in/jd-engelbrecht-b96267232/)
 
 
