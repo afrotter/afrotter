@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My [portfolio](https://jddev.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/jd-engelbrecht-b96267232/)
+[Portfolio](https://jddev.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/jd-engelbrecht-b96267232/)
 
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrotter&layout=compact&theme=dark)
